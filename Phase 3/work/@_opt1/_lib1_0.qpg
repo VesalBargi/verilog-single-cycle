@@ -10,10 +10,10 @@ z2
 cModel Technology
 Z0 dC:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 1
 T_opt
-!s110 1721848284
-VNL1jP2g4oEYGHzPLzk7Z;0
-04 9 4 work test_Main fast 0
-=1-5c260a493ffb-66a151db-76-1ff8
+!s110 1721823630
+V9ceHOG_OL=EgPkQWBF[kz2
+04 12 4 work test_Control fast 0
+=1-5c260a493ffb-66a0f18e-1e-1c90
 Z1 o-quiet -auto_acc_if_foreign -work work +acc
 Z2 tCvgOpt 0
 n@_opt
@@ -28,17 +28,6 @@ R1
 R2
 n@_opt1
 R3
-R0
-T_opt2
-!s110 1721824240
-VQRmh2UZJRBHPMOkVg`[GO2
-04 4 4 work Main fast 0
-=1-5c260a493ffb-66a0f3f0-27-21b4
-R1
-R2
-n@_opt2
-R3
-R0
 vAdd
 Z4 !s110 1721738636
 !i10b 1
@@ -136,23 +125,23 @@ R11
 R2
 n@control
 vDataMemory
-!s110 1721849130
+R4
 !i10b 1
 !s100 nQC515Yde90[gn[RUfk<80
 R5
 IlcOd>3F6?hhFk<@e>`<_Y0
 R6
-w1721848479
+R7
 8C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/DataMemory.v
 FC:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/DataMemory.v
-!i122 18
+!i122 10
 L0 1 25
 R8
 R9
 r1
 !s85 0
 31
-!s108 1721849130.000000
+R10
 !s107 C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/DataMemory.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/DataMemory.v|
 !i113 0
@@ -407,43 +396,4 @@ R5
 Io0fWBoLFcUfb<EDOj0EgQ3
 R6
 R13
-8C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/test_Control.v
-FC:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/test_Control.v
-!i122 1
-L0 3 38
-R8
-R9
-r1
-!s85 0
-31
-R14
-!s107 C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/test_Control.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/test_Control.v|
-!i113 0
-R11
-R2
-ntest_@control
-vtest_Main
-R4
-!i10b 1
-!s100 gGTWKaFj?KM5Hm>cI>H2J2
-R5
-I=9058]W;86EMOhdDQRz6T2
-R6
-w1719775203
-8C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/test_Main.v
-FC:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/test_Main.v
-!i122 5
-L0 3 24
-R8
-R9
-r1
-!s85 0
-31
-R10
-!s107 C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/test_Main.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Vesal/Documents/Modelsim/Single Cycle/Phase 3/test_Main.v|
-!i113 0
-R11
-R2
-ntest_@main
+8C:/Users/Vesal/Document
